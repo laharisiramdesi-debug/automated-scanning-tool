@@ -90,15 +90,15 @@ The program checks the Nmap process return code and reports errors when a scan d
 ##  Project Structure
 
 ```text
-Automated-Scanning-Tool/
+automated-scanning-tool/
 │
 ├── scanning.py
 ├── README.md
+├── scanning_report.txt
 └── screenshots/
-    ├── menu.png
-    ├── nmap_results.png
-    └── scanning_report.png
-```
+    ├── menu
+    ├── scanning results
+    └── report
 
 ##  How to Run
 
